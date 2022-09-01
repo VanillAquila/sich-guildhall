@@ -1,0 +1,9 @@
+## APIVersion: 100016
+## Title: Sich Guildhall Teleporter
+## Version: 0.0.1
+## Author: @Vanilla_Aquila
+
+ui/launcher.xml
+ui/launcher.lua
+
+SichGuildhall.lua
